@@ -1,4 +1,4 @@
-// Shahad Al Khaleej Website - Complete JavaScript
+// Shahad Al Khaleejs Website - Complete JavaScript
 
 (function() {
     'use strict';
@@ -62,6 +62,7 @@
             'role-ceo': 'الرئيس التنفيذي',
             'role-om': 'مدير العمليات',
             'role-bdm': 'مدير تطوير الأعمال',
+            'role-mm': 'مدير التسويق',
             'role-bc': 'منسق الأعمال',
             
             // Vision & Mission
@@ -233,17 +234,17 @@
             'carousel-prev': 'Previous',
             'carousel-next': 'Next',
             'intro-title': 'Introduction',
-            'intro-p1': 'Shahad Al Khaleej Trading Company is a <strong>100% Saudi Arabia Company</strong> Registered with ministry and chamber of commerce Commercial Reg. No: 7051448806.',
+            'intro-p1': 'Shahad Al Khaleejs Trading Company is a <strong>100% Saudi Arabia Company</strong> Registered with ministry and chamber of commerce Commercial Reg. No: 7051448806.',
             'intro-p2': 'We are specialized in the field of industrial and commercial constructions: civil, mechanical, electro mechanical, HVAC System.',
             'intro-p3': 'We are handling all types of turnkey projects.',
             'intro-p4': 'The company is controlled by management team with a clear focus on individual responsibility and high level of expertise.',
             'intro-p5': 'Qualified and experienced persons manage estimation, engineering management, planning constructions, safety quality control, quality assurance and cost control of projects.',
             'intro-p6': 'We look forward to having long-standing business relationships with all our esteemed customers.',
             'about-title': 'About Us',
-            'about-p1': 'We are pleased to introduce you <strong>Shahad Al Khaleej Trading Company</strong>, a pioneer in industrial and commercial construction.',
+            'about-p1': 'We are pleased to introduce you <strong>Shahad Al Khaleejs Trading Company</strong>, a pioneer in industrial and commercial construction.',
             'about-p2': 'We are a leading contracting company in Saudi Arabia.',
             'about-p3': 'We handle all types of industrial and commercial construction since 1970.',
-            'about-p4': 'Shahad Al Khaleej has added to its achievements some of the industrial and commercial construction.',
+            'about-p4': 'Shahad Al Khaleejs has added to its achievements some of the industrial and commercial construction.',
             'about-p5': 'We provide contracting services and undertake commercial and industrial ventures as well.',
             'about-p6': 'We believe in using updated technologies and ensuring safety when designing venture plans.',
             'about-p7': 'We appreciate working with you and look forward to future ventures.',
@@ -256,6 +257,7 @@
             'role-ceo': 'CEO',
             'role-om': 'OPERATION MANAGER',
             'role-bdm': 'BUSINESS DEVOLP. MANAGER',
+            'role-mm': 'MARKETING MANAGER',
             'role-bc': 'BUSINESS COORDINATOR',
             'vision-title': 'Vision & Mission',
             'vision-heading': 'Our Vision',
@@ -263,9 +265,9 @@
             'mission-heading': 'Mission',
             'mission-text': '"To provide our customer with quality, cost-effective and reliable solutions and an EPC contractor at home and manufacture of plants and equipment in the kingdom."',
             'policy-heading': 'Our Policy',
-            'policy-text': 'Shahad Al Khaleej is committed to provide quality services to customers by addressing needs and expectations, providing creative solutions, competitive pricing, timely completion, and full fulfillment of customer requirements.',
+            'policy-text': 'Shahad Al Khaleejs is committed to provide quality services to customers by addressing needs and expectations, providing creative solutions, competitive pricing, timely completion, and full fulfillment of customer requirements.',
             'values-title': 'Our Values',
-            'values-desc': 'At <strong>Shahad Al Khaleej</strong>, we uphold the following values:',
+            'values-desc': 'At <strong>Shahad Al Khaleejs</strong>, we uphold the following values:',
             'value-integrity-title': 'Integrity',
             'value-integrity-text': 'We uphold the highest ethical standards in all our dealings.',
             'value-teamwork-title': 'Teamwork',
@@ -375,7 +377,7 @@
             'footer-quick-links': 'QUICK LINKS',
             'footer-services': 'SERVICES',
             'footer-contact': 'CONTACT US',
-            'footer-copyright': 'Copyright @2025 Shahad Al Khaleej Trading Company. All Rights Reserved.'
+            'footer-copyright': 'Copyright @2025 Shahad Al Khaleejs Trading Company. All Rights Reserved.'
         }
     };
 
@@ -725,7 +727,7 @@
         // ============================================
         // Console Log (for debugging)
         // ============================================
-        console.log('Shahad Al Khaleej Website - JavaScript Loaded Successfully');
+        console.log('Shahad Al Khaleejs Website - JavaScript Loaded Successfully');
     });
 
 })();
