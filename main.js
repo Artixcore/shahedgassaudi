@@ -35,7 +35,7 @@
             
             // Introduction
             'intro-title': 'مقدمة',
-            'intro-p1': 'شركة إيسترن توب كومبانيز هي <strong>شركة سعودية 100%</strong> مسجلة في الوزارة وغرفة التجارة رقم السجل التجاري: 7051448806.',
+            'intro-p1': 'شركة إيسترن توب كومبانيز هي <strong>شركة سعودية 100%</strong> مسجلة في الوزارة وغرفة التجارة رقم السجل التجاري: 2050197985.',
             'intro-p2': 'نحن متخصصون في مجال الإنشاءات الصناعية والتجارية: المدنية، الميكانيكية، الكهروميكانيكية، أنظمة التكييف والتهوية.',
             'intro-p3': 'نحن نتعامل مع جميع أنواع المشاريع المتكاملة.',
             'intro-p4': 'الشركة يديرها فريق إداري مع التركيز الواضح على المسؤولية الفردية ومستوى عالٍ من الخبرة.',
@@ -206,7 +206,7 @@
             'contact-reg-title': 'التسجيل',
             
             // Footer
-            'footer-about': 'شركة سعودية 100% • رائدة في الإنشاءات الصناعية والتجارية منذ عام 1970. مسجلة في الوزارة وغرفة التجارة رقم السجل التجاري: 7051448806.',
+            'footer-about': 'شركة سعودية 100% • رائدة في الإنشاءات الصناعية والتجارية منذ عام 1970. مسجلة في الوزارة وغرفة التجارة رقم السجل التجاري: 2050197985.',
             'footer-quick-links': 'روابط سريعة',
             'footer-services': 'الخدمات',
             'footer-contact': 'اتصل بنا',
@@ -234,7 +234,7 @@
             'carousel-prev': 'Previous',
             'carousel-next': 'Next',
             'intro-title': 'Introduction',
-            'intro-p1': 'Shahad Al Khaleejs Trading Company is a <strong>100% Saudi Arabia Company</strong> Registered with ministry and chamber of commerce Commercial Reg. No: 7051448806.',
+            'intro-p1': 'Shahad Al Khaleejs Trading Company is a <strong>100% Saudi Arabia Company</strong> Registered with ministry and chamber of commerce Commercial Reg. No: 2050197985.',
             'intro-p2': 'We are specialized in the field of industrial and commercial constructions: civil, mechanical, electro mechanical, HVAC System.',
             'intro-p3': 'We are handling all types of turnkey projects.',
             'intro-p4': 'The company is controlled by management team with a clear focus on individual responsibility and high level of expertise.',
@@ -373,7 +373,7 @@
             'contact-email-title': 'Email',
             'contact-website-title': 'Website',
             'contact-reg-title': 'Registration',
-            'footer-about': '100% Saudi Arabia Company • Pioneering industrial and commercial construction since 1970. Registered with Ministry and Chamber of Commerce Commercial Reg. No: 7051448806 .',
+            'footer-about': '100% Saudi Arabia Company • Pioneering industrial and commercial construction since 1970. Registered with Ministry and Chamber of Commerce Commercial Reg. No: 2050197985 .',
             'footer-quick-links': 'QUICK LINKS',
             'footer-services': 'SERVICES',
             'footer-contact': 'CONTACT US',
